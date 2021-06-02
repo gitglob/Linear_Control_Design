@@ -1,6 +1,6 @@
 # Linear Control Design -Matlab-
 
-*Project on Automatic Control Systems course*
+*Project on Linear Control Design course*
 
 The excercise description, as well as my answer are in greek language. The code and its comments are in english.
 
