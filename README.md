@@ -1,4 +1,4 @@
-# Automatic_Control_Systems-Matlab-
+# Linear Control Design -Matlab-
 
 *Project on Automatic Control Systems course*
 
